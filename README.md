@@ -1,6 +1,6 @@
 # Multi-Agent Reinforcement Learning via Agent-Specific Preference
 
-This is the official implementation of MAGPIE (IEEE TASE 2026, [arxiv]()). 
+This is the official implementation of MAGPIE (IEEE TASE 2026, [arxiv](https://arxiv.org/abs/2608.08604)). 
 
 ## Installation
 
